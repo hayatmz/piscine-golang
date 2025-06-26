@@ -38,7 +38,6 @@ Pour explorer ou tester les projets localement :
 1. **Cloner le dépôt** :
 
 ```git clone https/..github.com/hayatmz/piscine-go.git```
-
 <br>
 
 ```cd piscine-go```
@@ -54,7 +53,6 @@ Pour explorer ou tester les projets localement :
 ou, pour compiler :
 
 ```go build nomdufichier.go```
-
 <br>
 
 ```./nomdufichier```
