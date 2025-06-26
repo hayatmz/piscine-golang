@@ -36,25 +36,29 @@ Ce dépôt contient l'ensemble des projets réalisés durant ma "piscine Golang"
 Pour explorer ou tester les projets localement :
 
 1. **Cloner le dépôt** :
-'git clone https/..github.com/hayatmz/piscine-go.git'
-'cd piscine-go'
+
+```git clone https/..github.com/hayatmz/piscine-go.git```
+```cd piscine-go```
 
 2. **Naviguer vers la quête souhaitée** :
-'cd quest02'
+
+```cd quest02```
 
 3. **Compiler et exécuter un fichier Go** :
-'go run nomdufichier.go'
+
+```go run nomdufichier.go```
 
 ou, pour compiler :
-'go build nomdufichier.go'
-'./nomdufichier'
+
+```go build nomdufichier.go```
+```./nomdufichier```
 
 > Tous les projets utilisent uniquement la bibliothèque standard de Go (aucune dépendance externe).
 
 Assure toi d'avoir Go installé sur ta machine. Tu peux vérifier avec :
-'go version'
+```go version```
 
-Si besoin, installe le depuis 'golang.org/dl'
+Si besoin, [installe Golang](https://golang.org/dl).
 
 
 ## À propos de Zone01
