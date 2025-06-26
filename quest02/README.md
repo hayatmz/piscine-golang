@@ -8,7 +8,7 @@ Deuxième journée de la piscine Golang à Zone01 Rouen en juin 2023. Ils permet
 - Se familiariser avec la structure de projets Go avec un ```main.go```
 
 ## Contenu
-Certains exercices sont des programmes indépendants dans leur propre dossier contenant un fichier ```main.go```:
+Certains exercices sont des programmes indépendants dans leur propre dossier contenant un fichier ```main.go```:<br>
 [printalphabet](./printalphabet) : affiche l'alphabet de ```a``` à ```z``` rune par rune.<br>
 [printdigits](./printdigits) : affiches les chiffres de ```0``` à ```9``` rune par rune.<br>
 [printreversealphabet](./printreversealphabet) : affiche l'alphabet en sens inverse (```z``` à ```a```). <br>
