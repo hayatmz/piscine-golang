@@ -34,7 +34,8 @@ Assurez-vous d'être dans le dossier 'quest01' du dépôt cloné :<br>
 ```cd quest01```
 
 Pour lancer un script :<br>
-En rendant le script exécutable<br>
+
+En le rendant exécutable<br>
 ```chmod +x nom_du_script.sh```
 <br>
 
