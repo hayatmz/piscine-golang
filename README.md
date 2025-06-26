@@ -38,6 +38,9 @@ Pour explorer ou tester les projets localement :
 1. **Cloner le dépôt** :
 
 ```git clone https/..github.com/hayatmz/piscine-go.git```
+
+<br>
+
 ```cd piscine-go```
 
 2. **Naviguer vers la quête souhaitée** :
@@ -51,6 +54,9 @@ Pour explorer ou tester les projets localement :
 ou, pour compiler :
 
 ```go build nomdufichier.go```
+
+<br>
+
 ```./nomdufichier```
 
 > Tous les projets utilisent uniquement la bibliothèque standard de Go (aucune dépendance externe).
