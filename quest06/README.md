@@ -1,4 +1,4 @@
-# Quest06 - Arguments de ligne de commande en Go. 🧭
+# Quest06 - Arguments de ligne de commande en Go 🧭
 
 ## Objectifs
 - Manipuler les arguments passés au programme via la ligne de commande.
