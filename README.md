@@ -20,8 +20,8 @@ Ce dépôt contient l'ensemble des projets réalisés durant ma "piscine Golang"
 -   [Quete06 - Arguments de ligne de commande en Go](./quest06)
 -   [Quest07 - Slices, chaînes et parsing](./quest07)
 -   [Quest08 - Structs, fichiers et adaptation de code](./quest08)
--   [Quest09 - Fonctions d'ordre supérieur et logique sur les slices](./quest09)
-- [HACKATON](./hackaton)
+-   [Quest09 - Fonctions comme valeurs (fonctionnelles)](./quest09)
+-   [HACKATON](./hackaton)
 
 ## Ce que j'y ai appris
 
