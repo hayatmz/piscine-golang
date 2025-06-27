@@ -75,4 +75,4 @@ Elle sera automatiquement ajoutée au fichier ```go.mod``` si le module a été 
 
 ## À propos de Zone01
 
-Zone01 est une école de code innovante basée sur l'apprentissage par projets et l'évaluation par les pairs. Aucun professeur, 100% pratique, 100% autonomie
+Zone01 est une école de code innovante basée sur l'apprentissage par projets et l'évaluation par les pairs. Aucun professeur, 100% pratique, 100% autonomie.
