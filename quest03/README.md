@@ -8,7 +8,6 @@
 - Approfondir la logique et la rigueur dans la manipulation de types simples.
 
 ## Contenu
-Certains exercices sont des programmes indépendants dans leur propre dossier contenant un fichier ```main.go```:<br>
 [pointone.go](./pointone.go) : Modifie une variable via un pointeur.<br>
 [ultimatepointone.go](./ultimatepointone.go) : Modifie une variable via trois niveaux de pointeurs.<br>
 [divmod.go](./divmod.go) : Division avec reste en utilisant des pointeurs.<br>
