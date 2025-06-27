@@ -36,36 +36,43 @@ Ce dépôt contient l'ensemble des projets réalisés durant ma "piscine Golang"
 
 Pour explorer ou tester les projets localement :
 
-1. **Cloner le dépôt** :
-
-```git clone https/..github.com/hayatmz/piscine-go.git```
-<br>
-
-```cd piscine-go```
-
-2. **Naviguer vers la quête souhaitée** :
-
-```cd quest02```
-
-3. **Compiler et exécuter un fichier Go** :
-
-```go run nomdufichier.go```
-
-ou, pour compiler :
-
-```go build nomdufichier.go```
-<br>
-
-```./nomdufichier```
-
-> Tous les projets utilisent uniquement la bibliothèque standard de Go (aucune dépendance externe).
-
-Assure toi d'avoir Go installé sur ta machine. Tu peux vérifier avec :
+1. Assure toi d'avoir Go installé sur ta machine. Tu peux vérifier avec :
 ```go version```
 
 Si besoin, [installe Golang](https://golang.org/dl).
 
+2. **Cloner le dépôt** :
+
+```git clone https/..github.com/hayatmz/piscine-go.git```<br>
+
+```cd piscine-go```
+
+> Tous les projets utilisent uniquement la bibliothèque standard de Go, **à l'exception de la bibliothèque pédagogique** [github.com/01-edu/z01](./github.com/01-edu/z01) utilisée pour afficher des caractères rune par rune, nous interdisant d'utiliser ```fmt```.
+
+Pour l'installer, exécute cette commande dans le terminal :
+
+```go get github.com/01-edu/z01```<br>
+
+Elle sera automatiquement ajoutée au fichier ```go.mod``` si le module a été initialisé.
+
+💡 Si ton dossier n'a pas encore de module Go, commence par :<br>
+```go mod init piscine```
+
+3. **Naviguer vers la quête souhaitée** :
+
+```cd quest02```
+
+4. **Exécuter un fichier Go** :
+
+```go run nomdufichier.go```
+
+**ou, pour compiler** :
+
+```go build nomdufichier.go```<br>
+
+```./nomdufichier```
+
 
 ## À propos de Zone01
 
-Zone01 est une école de code innovante basée sur l'apprentissage par projets et l'évaluation par les pairs. Aucun professeur, 100% pratique, 100% autonomie.
+Zone01 est une école de code innovante basée sur l'apprentissage par projets et l'évaluation par les pairs. Aucun professeur, 100% pratique, 100% autonomie
