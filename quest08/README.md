@@ -28,9 +28,10 @@ Assurez-vous d'être dans le dossier 'quest08' du dépôt cloné et dans le doss
 Pour lancer un programme :<br>
 ```go run main.go```<br>
 
+Pour **displayfile** :<br>
+```go run main.go fichier.txt```<br>
+
 **Ou** pour compiler et exécuter :<br>
 ```go build nom_du_fichier.go```<br>
 ```./nom_du_fichier```
 
-Pour **displayfile** :<br>
-```go run main.go fichier.txt```
