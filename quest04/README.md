@@ -1,4 +1,4 @@
-# Quest04 - Fonctions récursives et calculs mathématiques en Go. 🔁📐
+# Quest04 - Fonctions récursives et calculs mathématiques en Go 🔁📐
 
 ## Objectifs
 - Approfondir la logique de récursivité.

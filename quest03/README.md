@@ -1,4 +1,4 @@
-# Quest03 - Pointeurs, chaînes et conversions de types. 🧠🪢
+# Quest03 - Pointeurs, chaînes et conversions de types 🧠🪢
 
 ## Objectifs
 - Comprendre le fonctionnement des pointeurs en Go : manipulation directe de la mémoire.

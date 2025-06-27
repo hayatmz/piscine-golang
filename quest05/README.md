@@ -1,4 +1,4 @@
-# Quest05 - Manipulation avancée de chaînes de caractères. 🔤🧪
+# Quest05 - Manipulation avancée de chaînes de caractères 🔤🧪
 
 ## Objectifs
 - Approfondir la festion des chaînes de caractères en Go.
