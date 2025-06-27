@@ -21,7 +21,6 @@ Ce dépôt contient l'ensemble des projets réalisés durant ma "piscine Golang"
 -   [Quest07 - Slices, chaînes et parsing](./quest07)
 -   [Quest08 - Structs, fichiers et adaptation de code](./quest08)
 -   [Quest09 - Fonctions comme valeurs (fonctionnelles)](./quest09)
--   [HACKATON](./hackaton)
 
 ## Ce que j'y ai appris
 
