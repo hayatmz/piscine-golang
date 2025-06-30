@@ -36,40 +36,57 @@ Ce dépôt contient l'ensemble des projets réalisés durant ma "piscine Golang"
 Pour explorer ou tester les projets localement :
 
 1. Assure toi d'avoir Go installé sur ta machine. Tu peux vérifier avec :
-```go version```
+```
+go version
+```
 
-Si besoin, [installe Golang](https://golang.org/dl).
+Si besoin, [installe Golang](https://go.dev/doc/install).
 
 2. **Cloner le dépôt** :
 
-```git clone https/..github.com/hayatmz/piscine-go.git```<br>
-
-```cd piscine-go```
+```
+git clone https/..github.com/hayatmz/piscine-go.git
+```
+Et rends toi dans le dossier.
+```
+cd piscine-go
+```
 
 > Tous les projets utilisent uniquement la bibliothèque standard de Go, **à l'exception de la bibliothèque pédagogique** [github.com/01-edu/z01](./github.com/01-edu/z01) utilisée pour afficher des caractères rune par rune, nous interdisant d'utiliser ```fmt```.
 
 Pour l'installer, exécute cette commande dans le terminal :
 
-```go get github.com/01-edu/z01```<br>
+```
+go get github.com/01-edu/z01
+```
 
 Elle sera automatiquement ajoutée au fichier ```go.mod``` si le module a été initialisé.
 
 💡 Si ton dossier n'a pas encore de module Go, commence par :<br>
-```go mod init piscine```
+```
+go mod init piscine
+```
 
 3. **Naviguer vers la quête souhaitée** :
 
-```cd quest02```
+```
+cd quest02
+```
 
 4. **Exécuter un fichier Go** :
 
-```go run nomdufichier.go```
+```
+go run nomdufichier.go
+```
 
 **ou, pour compiler** :
 
-```go build nomdufichier.go```<br>
-
-```./nomdufichier```
+```
+go build nomdufichier.go
+```
+```
+./nomdufichier
+```
 
 
 ## À propos de Zone01
